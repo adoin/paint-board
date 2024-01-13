@@ -52,6 +52,9 @@
     "updater": {
       "active": false
     },
+    "systemTray": {
+      "iconPath": "icons/128x128.ico"
+    },
     "windows": [
       {
         "fullscreen": false,
